@@ -1,0 +1,19 @@
+{
+    "RouteTable": {
+        "Associations": [],
+        "PropagatingVgws": [],
+        "RouteTableId": "rtb-0f3762042b4fcd643",
+        "Routes": [
+            {
+                "DestinationCidrBlock": "192.168.0.0/24",
+                "GatewayId": "local",
+                "Origin": "CreateRouteTable",
+                "State": "active"
+            }
+        ],
+        "Tags": [],
+        "VpcId": "vpc-09ae5e0bdcb976a59",
+        "OwnerId": "543072733053"
+    },
+    "ClientToken": "7ca3f3db-b5a3-4807-a255-27a9ff16fa88"
+}

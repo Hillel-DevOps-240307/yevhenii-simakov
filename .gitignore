@@ -3,5 +3,3 @@
 
 # Ignore macOS Files
 .DS_Store
-.pre-commit-config.yaml
-.github
